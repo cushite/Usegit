@@ -1,2 +1,2 @@
 # Usegit
-Dusting my gut account 
+Dusting my git account 
